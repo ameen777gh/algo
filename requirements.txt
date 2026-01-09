@@ -1,1 +1,3 @@
-flask, kiteconnect, and gunicorn
+flask
+kiteconnect
+gunicorn
